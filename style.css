@@ -89,6 +89,7 @@ h1 {
 @media only screen and (max-width:640px) {
     #burger {
         display: flex;
+        margin-right: 20px;
     }
 
     #navbar {
